@@ -24,4 +24,4 @@ interpretable components (e.g. Network Structure vs. Systemic Importance), in th
 ## 🚀 How to run the code
 The main analysis can be found in the `interbank_deposits.R` notebook.
 
-[📄 Read the full report (PDF)](./report_interbank_deposits.pdf)]
+[📄 Read the full report (PDF)](./report_interbank_deposits.pdf)
